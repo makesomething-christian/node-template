@@ -1,0 +1,21 @@
+{
+  "name": "node-template",
+  "version": "0.0.1",
+  "description": "template for node",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon -r esm server.js"
+  },
+  "author": "makesomething.io <christian@makesomething.io>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "esm": "^3.0.74"
+  },
+  "dependencies": {
+    "compression": "^1.7.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0"
+  }
+}
