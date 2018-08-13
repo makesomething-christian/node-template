@@ -3,6 +3,7 @@
 Boilerplate for a Node.js application that  uses the following development tools:
 * ESlint
 * ESM 
+* Express
 
 #### Installation
 
