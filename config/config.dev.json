@@ -1,0 +1,14 @@
+{
+  "db":{
+    "URI":"mongodb://localhost:27017",
+    "NAME":"general",
+    "OPTIONS":{
+      "useNewUrlParser": true,
+      "poolSize": 10
+    }
+  },
+  "server":{
+    "HOST":"localhost",
+    "PORT":3000
+  }
+}
